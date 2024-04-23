@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #6c63ff;
+  --primary-color: #be99fb;
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -7,6 +7,7 @@
 body {
   margin: 80px;
   max-width: 100%;
+  font-family: "Barlow", sans-serif;
 }
 
 h1,
