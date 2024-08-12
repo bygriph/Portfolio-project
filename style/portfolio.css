@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #f5fcd9;
+  --secondary-color: #1f5660;
+  --accent-color: #dcf968;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  --headings-font: font-family: "Coustard", serif;
+  --paragraf-font: font-family: "Heebo", sans-serif;
+  
+}
+
